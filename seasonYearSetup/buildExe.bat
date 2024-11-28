@@ -1,0 +1,1 @@
+nexe --build -i seasonYearSetup.js -t x64-20.18.0 -r "../node_modules/madden-franchise/data/schemas" -r "../Utils/FranchiseUtils.js" -r "../Utils/FranchiseTableId.js" -o "seasonYearSetup.exe" --verbose
